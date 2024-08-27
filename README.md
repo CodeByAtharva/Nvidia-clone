@@ -10,6 +10,16 @@ This repository contains a clone of the NVIDIA website, created as part of a 3-h
 
 To see the website in action, visit: [Your GitHub Pages or hosting service URL]
 
+
+## Preview
+
+Here are some screenshots of our NVIDIA clone website:
+
+![Homepage](https://example.com/path-to-your-image1.jpg)
+![Products Page](https://example.com/path-to-your-image2.jpg)
+![Technologies Page](https://example.com/path-to-your-image3.jpg)
+![Footer](https://example.com/path-to-your-image4.jpg
+
 ## Project Details
 
 - **Event:** Tech Event at D.Y. Patil College of Engineering, Kasaba Bawda, Kolhapur
