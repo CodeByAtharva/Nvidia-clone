@@ -6,7 +6,6 @@ This repository contains a clone of the NVIDIA website, created as part of a 3-h
 
 ## Live Preview
 
-[Add your live preview link here]
 
 To see the website in action, visit: https://athrudev.github.io/Nvidia-clone/
 
