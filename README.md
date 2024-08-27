@@ -15,10 +15,10 @@ To see the website in action, visit: [Your GitHub Pages or hosting service URL]
 
 Here are some screenshots of our NVIDIA clone website:
 
-![Homepage](https://example.com/path-to-your-image1.jpg)
-![Products Page](https://example.com/path-to-your-image2.jpg)
-![Technologies Page](https://example.com/path-to-your-image3.jpg)
-![Footer](https://example.com/path-to-your-image4.jpg
+![Homepage](Screenshots/1.jpg)
+![Products Page](Screenshots/2.jpg)
+![Technologies Page](Screenshots/3.jpg)
+![Footer](Screenshots/4.jpg)
 
 ## Project Details
 
