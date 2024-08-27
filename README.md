@@ -2,13 +2,13 @@
 
 ## Overview
 
-This repository contains a clone of the NVIDIA website, created as part of a 3-hour webpage creation challenge at the Tech Event held at D.Y. Patil College of Engineering, Kasaba Bawda, Kolhapur.
+This repository contains a clone of the NVIDIA website, created as part of a 3-hour webpage creation challenge at the Tech Event held at D. Y. Patil College of Engineering & Technology, Kasaba Bawada, Kolhapur
 
 ## Live Preview
 
 [Add your live preview link here]
 
-To see the website in action, visit: [Your GitHub Pages or hosting service URL]
+To see the website in action, visit: https://athrudev.github.io/Nvidia-clone/
 
 
 ## Preview
