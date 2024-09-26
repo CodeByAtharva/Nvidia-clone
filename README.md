@@ -49,8 +49,6 @@ We are proud to have completed this NVIDIA clone website within the challenging 
 
 ## Technologies Used
 
-## Technologies Used
-
 This project was built using the following technologies:
 
 - HTML5: For structuring the web content
