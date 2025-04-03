@@ -7,7 +7,7 @@ This repository contains a clone of the NVIDIA website, created as part of a 3-h
 ## Live Preview
 
 
-To see the website in action, visit: https://athrudev.github.io/Nvidia-clone/
+To see the website in action, visit: https://CodeByAtharva.github.io/Nvidia-clone/
 
 
 ## Preview
@@ -30,7 +30,7 @@ Here are some screenshots of our NVIDIA clone website:
 
 This project was completed by:
 
-1. Atharva Kamble (athrudev@gmail.com)
+1. Atharva Kamble (atharva.kamble110586@gmail.com)
 2. Prem Kamble (premprove@gmail.com)
 
 ## Important Notice
